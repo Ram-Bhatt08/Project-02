@@ -1,0 +1,129 @@
+*{
+  background-color: #f0f2f5;
+}
+.face {
+    width: 300px;
+    height:300px;
+}
+#content {
+    margin-top: 70px;
+    margin-left: 125px;
+}
+#first {
+    padding-left: 30px;
+    font-size: 30px;
+}
+#section {
+    display: flex;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-left: 100px;
+margin-right: 100px;
+}
+#sectionleft{
+    width: 50%;
+}
+#sectionright {
+    width:50%;
+}
+#email {
+    width: 80%;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+#Password {
+    width: 80%;
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.but {
+    width:80%;
+    display: block;
+    background-color: blue;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 15px;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+#forgot {
+    text-align: center;
+    color:blue;
+    background-color: white;
+    margin-bottom: 20px;
+}
+#forgot:hover{
+   text-decoration: underline;
+}
+#create {
+    text-align: center;
+    width: 50%;
+    background-color: #42b72a;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 25px;
+    color: white;
+}
+hr {
+    margin-bottom: 20px;
+}
+.new {
+    background-color: white;
+}
+a {
+    text-decoration: none;
+    background-color: transparent;
+}
+.face {
+    width: 300px;
+    height: fit-content;
+}
+form {
+   background-color: white;
+   margin-bottom: 50px;
+}
+center {
+    background-color: white;
+}
+#secform {
+    border-radius: 20px;
+    background-color: white;
+    width: 400px;
+    height: 350px;
+    padding: 30px;
+    margin-left: 20px;
+}
+#brand {
+    margin-left: 90px;
+    margin-top: 30px;
+    font-size: 15px;
+}
+.page {
+    color: black;
+    font-size: 18px;
+}
+.page:hover {
+    text-decoration: underline;
+}
+#all{
+    background-color: #1877f2;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+#copy {
+    background-color:#00a400;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
